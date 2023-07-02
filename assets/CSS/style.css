@@ -1,0 +1,53 @@
+
+
+
+#footer{
+    color: rgb(9, 243, 188);
+    background-color: rgb(124, 90, 17);
+    border-bottom: 10px solid #133413;
+}
+
+#section1{
+    color: aqua;
+}
+
+label{
+    color:blanchedalmond
+}
+
+#para2{
+color:red
+}
+
+.input-box{
+    background-color: #133413;
+}
+
+#name{
+    color: yellow;
+}
+
+
+li{
+    display: inline;
+    padding: 10px 30px 10px 50px ;
+}
+
+ul{
+    background-color:coral;
+}
+
+
+/* div p {
+    allthe cilderdn under the div
+} */
+
+div > p{
+    color: blue;
+}
+
+
+div +p{
+    font-family: monospace;
+    color: yellow;
+}
